@@ -1,7 +1,7 @@
-#Rupasai
-#213059006
-#RupasaiR - Git Username
-#References
+# Rupasai
+# 213059006
+# RupasaiR - Git Username
+# References
 ## http://patorjk.com/software/taag/#p=display&f=Big&t=RUPASAI
 ## https://www.geeksforgeeks.org/awk-command-unixlinux-examples/
 ## https://www.javatpoint.com/bash-split-string
